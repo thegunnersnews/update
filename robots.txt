@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://thegunnersnews.github.io/update/
